@@ -1,1 +1,2 @@
-config-test vesion 1
+config:
+  test: branch master springcloud-config/config-test.yml vesion 1
