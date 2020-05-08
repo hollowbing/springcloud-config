@@ -1,2 +1,2 @@
 config:
-  prod: branch master springcloud-config/config-prod.yml vesion 1
+  info: branch master springcloud-config/config-prod.yml vesion 1
