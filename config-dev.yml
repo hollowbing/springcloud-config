@@ -1,1 +1,2 @@
-config-dev vesion 1
+config:
+  dev: branch master springcloud-config/config-dev.yml vesion 1
